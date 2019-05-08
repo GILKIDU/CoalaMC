@@ -34,6 +34,7 @@ int main()
 		while (z < g + sd) {
 			locateBlock(Enk, x, y, z);
 			z++;
+			
 		}
 		z = g - sd + 1;
 		x = e + sd;
